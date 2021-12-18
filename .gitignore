@@ -11,6 +11,10 @@
 /Pillow-*.dist-info/
 /Pillow.libs/
 
+# Editors etc.
+*.swp
+.goutputstream-*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
